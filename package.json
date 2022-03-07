@@ -33,7 +33,7 @@
     "@types/date-fns": "2.6.0",
     "@types/fs-extra": "9.0.11",
     "@types/node": "15.12.2",
-    "@types/node-fetch": "2.5.10",
+    "@types/node-fetch": "2.6.1",
     "@types/prompts": "2.0.12",
     "husky": "6.0.0",
     "nodemon": "2.0.7",
